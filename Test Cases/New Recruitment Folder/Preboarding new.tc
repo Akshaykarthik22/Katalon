@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Preboarding new</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6ccdc04-8ed3-4046-abd5-af299a769b23</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fe29823-030a-475f-8798-eff603a3b9fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fe29823-030a-475f-8798-eff603a3b9fe</id>
+      <masked>false</masked>
+      <name>Value</name>
+   </variable>
+</TestCaseEntity>

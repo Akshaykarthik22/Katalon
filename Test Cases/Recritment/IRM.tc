@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IRM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3287aea9-ea56-4cf9-8787-c971db0549d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>737ed0cf-5f7b-4ef8-9628-076043b18976</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>737ed0cf-5f7b-4ef8-9628-076043b18976</id>
+      <masked>false</masked>
+      <name>roundName</name>
+   </variable>
+</TestCaseEntity>

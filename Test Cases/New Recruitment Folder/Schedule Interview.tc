@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Schedule Interview</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b290f10-65d3-4b18-ab40-77dd2b5e279b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2eaeb7c-17cf-46ee-a210-c0cea9fa8603</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f39d02ea-85aa-46b8-80ba-123af6568b98</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2eaeb7c-17cf-46ee-a210-c0cea9fa8603</id>
+      <masked>false</masked>
+      <name>StartTime</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f39d02ea-85aa-46b8-80ba-123af6568b98</id>
+      <masked>false</masked>
+      <name>EndTime</name>
+   </variable>
+</TestCaseEntity>

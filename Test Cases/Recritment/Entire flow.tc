@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Entire flow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b14829a-6e51-4004-98d7-0dde7dce64ec</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9af2f8a4-d5cd-4e19-b61c-abd52d03aac6</id>
+      <masked>false</masked>
+      <name>StartTime</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b4318194-2b12-47bb-910d-c0d2485e4a0a</id>
+      <masked>false</masked>
+      <name>EndTime</name>
+   </variable>
+</TestCaseEntity>
